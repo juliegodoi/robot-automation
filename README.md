@@ -13,8 +13,7 @@ Antes de rodar o projeto, certifique-se de ter os seguintes softwares instalados
 - [Python](https://www.python.org/)
 - [Robot Framework](https://robotframework.org/)
 - [SeleniumLibrary](https://robotframework.org/SeleniumLibrary/)
-- WebDriver compatível com o navegador (ex.: Edge, Chrome, Firefox)  
-  > ⚠️ No projeto foi utilizado o **Microsoft Edge**, então certifique-se de ter o [Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) instalado e configurado no PATH.
+- WebDriver compatível com o navegador (ex.: Edge, Chrome, Firefox)
 
 
 ## 📦 Instalação do Organo

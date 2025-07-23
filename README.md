@@ -38,7 +38,7 @@ Antes de rodar o projeto, certifique-se de ter os seguintes softwares instalados
 Certifique-se de que o WebDriver do navegador escolhido esteja instalado e acessível via terminal.  
 O caminho do executável deve estar configurado na variável de ambiente `PATH`.
 
-> ✅ Neste projeto foi utilizado o **Microsoft Edge**, então é necessário instalar o [Edge WebDriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) correspondente à sua versão do navegador.
+> ✅ Neste projeto foi utilizado o **Microsoft Edge**.
 
 
 #### FakerLibrary
